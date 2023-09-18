@@ -1,5 +1,5 @@
 # ChatApp - Chat Application 
-ChatApp is chat application build with the power of MERN Stack. You can find the tutorial 
+ChatApp is chat application build with the Mern Stack
 
 
 ## Installation Guide
